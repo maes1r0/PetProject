@@ -1,0 +1,96 @@
+﻿<Window x:Class="Lab1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab1"
+        mc:Ignorable="d"
+        Title="MainWindow" MinHeight="800" MinWidth="1200" Height="800" Width="1200">
+    <Window.Background>
+        <ImageBrush ImageSource="images\background.jpg" />
+    </Window.Background>
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" >
+                <Run FontSize="20" Foreground="Red">Факультети КНУ ім. Тараса Шевченка</Run>
+            </TextBlock>
+            <Image MinWidth="170" Source="images\icon.jpg" HorizontalAlignment="Left"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition Width="0.75*"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock  Grid.Row="0" Grid.Column="0" Text="ID" HorizontalAlignment="Center" Style="{StaticResource StyleForText}"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Text="Назва факультета" HorizontalAlignment="Center" Style="{StaticResource StyleForText}"/>
+                <TextBlock Grid.Row="0" Grid.Column="2" Text="Профільний предмет" HorizontalAlignment="Center" Style="{StaticResource StyleForText}"/>
+                <TextBlock Grid.Row="0" Grid.Column="3" Text="Кількість викладачів факультета" HorizontalAlignment="Center" Style="{StaticResource StyleForText}"/>
+                <TextBlock Grid.Row="0" Grid.Column="4" Text="Кількість студентів факультета" HorizontalAlignment="Center" Style="{StaticResource StyleForText}"/>
+                <TextBlock Grid.Row="0" Grid.Column="5" Text="Спеціалізація факультета" HorizontalAlignment="Center" Style="{StaticResource StyleForText}"/>
+
+                <TextBox  Name="ID_Textbox" Grid.Row="1" Grid.Column="0" Margin="20,0,20,0"/>
+                <TextBox Name="FacultyName_TextBox" Grid.Row="1" Grid.Column="1" Margin="20,0,20,0"/>
+                <TextBox Name="MainSubj_TextBox" Grid.Row="1" Grid.Column="2" Margin="30,0,30,0"/>
+                <TextBox Name="NumbOfLect_Textbox" Grid.Row="1" Grid.Column="3" Margin="20,0,20,0"/>
+                <TextBox Name="NumbOfStud_TextBox" Grid.Row="1" Grid.Column="4" Margin="20,0,20,0"/>
+                <ComboBox Name="ID_OfSpec_Combobox"  Grid.Row="1" Grid.Column="5" Margin="20,0,20,0"/>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="2" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.35*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <StackPanel Orientation="Vertical" >
+                    <RadioButton Name="GetFac" IsChecked="False" Checked ="GetFac_Checked" Unchecked="GetFac_Unchecked" GroupName="Choise" Content="Отримання факультета" Margin="100,20,0,10" Style="{StaticResource StyleForText}"/>
+                    <RadioButton Name="AddFac" IsChecked="False" GroupName="Choise" Content="Додання факультета" Margin="100,5,0,10" Style="{StaticResource StyleForText}"/>
+                    <RadioButton Name="ChangeFac" IsChecked="False" Checked ="ChacgeFac_Checked" GroupName="Choise" Content="Оновлення факультета" Margin="100,5,0,10" Style="{StaticResource StyleForText}"/>
+                    <RadioButton Name="DelFac" IsChecked="False" Checked ="DeleteFac_Checked" Unchecked="DeleteFac_Unchecked" GroupName="Choise" Content="Вилучення факультета" Margin="100,5,0,10" Style="{StaticResource StyleForText}"/>
+                </StackPanel>
+            </Grid>
+            <Grid Grid.Column="1">
+                <CheckBox Name="ID_CheckBox" Unchecked="ID_CheckBox_Unchecked" Checked="ID_CheckBox_Checked" IsEnabled="False" Content="За ID" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="100,0,0,0" Style="{StaticResource StyleForText}"/>
+                <CheckBox Name="Spec_CheckBox" Unchecked="Spec_CheckBox_Unchecked" Checked="Spec_CheckBox_Checked" IsEnabled="False" Content="За спецалізацією" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,0,0"  Foreground="OrangeRed"/>
+
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Button Opacity="0.8" Content="Виконати запит" Name ="Query_Button" Click="Query_Button_Click" Width="150" Height="40" Margin="250,0,0,0" HorizontalAlignment="Left"/>
+            <Button Opacity="0.8" Content="Спеціалізації факультета"  Name ="DirectionOfActivity_Button" Click="DirectionOfActivity_Button_Click" Width="150" Height="40" Margin="0,0,300,0" HorizontalAlignment="Right"/>
+        </Grid>
+        <Grid Grid.Row="4">
+            <DataGrid Opacity="0.80" Name="Table" IsReadOnly="True" AutoGenerateColumns="False" GridLinesVisibility="All" HorizontalGridLinesBrush="LightGray" VerticalGridLinesBrush="LightGray">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding Id}"  Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Назва факультета" Binding="{Binding NameOfFaculty}" Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Профільний предмет" Binding="{Binding AdvancedPlacement}" Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Кількість викладачів факультета" Binding="{Binding NumberOfFacultyMembers}" Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Кількість викладачів факультета" Binding="{Binding NumberOfFacultyStudents}" Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Спеціалізація факультета" Binding="{Binding NameOfSpecialization}" Visibility="Hidden"/>
+                    <DataGridTextColumn Header="Опис спеціалізації факультета" Binding="{Binding SpecializationOfFaculty}" Visibility="Hidden"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>
+

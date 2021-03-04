@@ -1,0 +1,309 @@
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Lab1.exe
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Lab1.pdb
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.g.resources
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.exe
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\Lab1.pdb
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\SecondWindow.g.cs
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\SecondWindow.baml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1\obj\Debug\App.baml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Lab1.exe.config
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Lab1.exe
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Lab1.pdb
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\SecondWindow.g.cs
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\App.baml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\SecondWindow.baml
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.g.resources
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.exe
+C:\Users\admin\Desktop\Сис прога Петровича\Lab1.1\obj\Debug\Lab1.pdb
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Lab1.exe.config
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Lab1.exe
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Lab1.pdb
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Buffers.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Memory.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Buffers.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Memory.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\MainWindow.g.cs
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\SecondWindow.g.cs
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\App.g.cs
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1_MarkupCompile.cache
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1_MarkupCompile.lref
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\App.baml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\MainWindow.baml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\SecondWindow.baml
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.g.resources
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.csproj.CopyComplete
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.exe
+C:\Users\kyryl\Desktop\Файлы по проге\Сис прога\2 семестр\Lab1.1\obj\Debug\Lab1.pdb

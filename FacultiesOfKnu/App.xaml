@@ -1,0 +1,13 @@
+﻿<Application x:Class="Lab1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lab1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style x:Key="StyleForText">
+            <Setter Property="TextBlock.Foreground" Value="Red"/>
+            <Setter Property="TextElement.Foreground" Value="Red"/>
+
+        </Style>
+    </Application.Resources>
+</Application>
